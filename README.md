@@ -3,15 +3,15 @@
 ![image](https://user-images.githubusercontent.com/70570645/171999890-219a551d-ca1b-41a2-aa70-35f5b2d6d8ce.png)
 
 <p align="center">
-  <a href="https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=blog" target="_bank">Blog</a>
+  <a href="https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud" target="_bank">Blog</a>
   &nbsp; &#8901; &nbsp;
-  <a href="https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=docs" target="_bank">Docs</a>
+  <a href="https://www.lambdatest.com/support/docs/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud" target="_bank">Docs</a>
   &nbsp; &#8901; &nbsp;
-  <a href="https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=hub" target="_bank">Learning Hub</a>
+  <a href="https://www.lambdatest.com/learning-hub/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud" target="_bank">Learning Hub</a>
   &nbsp; &#8901; &nbsp;
-  <a href="https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=newsletter" target="_bank">Newsletter</a>
+  <a href="https://www.lambdatest.com/newsletter/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud" target="_bank">Newsletter</a>
   &nbsp; &#8901; &nbsp;
-  <a href="https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=certifications" target="_bank">Certifications</a>
+  <a href="https://www.lambdatest.com/certifications/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud" target="_bank">Certifications</a>
   &nbsp; &#8901; &nbsp;
   <a href="https://www.youtube.com/c/LambdaTest" target="_bank">YouTube</a>
 </p>
@@ -19,7 +19,7 @@
 &emsp;
 &emsp;
 
-LambdaTest enables you to perform end-to-end automation tests on a secure, reliable, and scalable Selenium infrastructure. You can perform automated [cross browser testing](https://www.lambdatest.comhttps://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=home) with Selenium scripts on 3000+ browsers and operating systems environments, giving you higher test coverage and at significantly less built times. LambdaTest will help you evaluate how well your web application renders when accessed through a variety of different browsers.
+LambdaTest enables you to perform end-to-end automation tests on a secure, reliable, and scalable Selenium infrastructure. You can perform automated [cross browser testing](https://www.lambdatest.comhttps://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud) with Selenium scripts on 3000+ browsers and operating systems environments, giving you higher test coverage and at significantly less built times. LambdaTest will help you evaluate how well your web application renders when accessed through a variety of different browsers.
 
 **LambdaTest Selenium Automation Features** 🚀
 
@@ -30,7 +30,7 @@ LambdaTest enables you to perform end-to-end automation tests on a secure, relia
 * Out-of-the-box geolocation testing 🌎
 * Detailed analytics and reporting of test runs 📈
 
-[<img height="58" width="200" src="https://user-images.githubusercontent.com/70570645/171866795-52c11b49-0728-4229-b073-4b704209ddde.png">](https://accounts.lambdatest.com/register?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=register)
+[<img height="58" width="200" src="https://user-images.githubusercontent.com/70570645/171866795-52c11b49-0728-4229-b073-4b704209ddde.png">](https://accounts.lambdatest.com/register?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
 
 
 ## Supported Languages and Frameworks
@@ -62,32 +62,32 @@ Our Selenium grid also supports hybrid frameworks like [Tesbo](https://github.co
 
 ## Additional Links 🔗
 
-* [Set Up Environment Variables](https://www.lambdatest.com/support/docs/using-environment-variables-for-authentication-credentials/)
-* [Inside LambdaTest Automation Platform](https://www.lambdatest.com/support/docs/inside-lambdatest-platform/)
-* [Desired Capabilities In Selenium](https://www.lambdatest.com/support/docs/selenium-automation-capabilities/)
-* [LambdaTest Selenium Grid Configuration](https://www.lambdatest.com/support/docs/lambdatest-grid-configuration/)
-* [Changing Individual Test Details](https://www.lambdatest.com/support/docs/change-individual-test-details/)
+* [Set Up Environment Variables](https://www.lambdatest.com/support/docs/using-environment-variables-for-authentication-credentials/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
+* [Inside LambdaTest Automation Platform](https://www.lambdatest.com/support/docs/inside-lambdatest-platform/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
+* [Desired Capabilities In Selenium](https://www.lambdatest.com/support/docs/selenium-automation-capabilities/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
+* [LambdaTest Selenium Grid Configuration](https://www.lambdatest.com/support/docs/lambdatest-grid-configuration/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
+* [Changing Individual Test Details](https://www.lambdatest.com/support/docs/change-individual-test-details/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
 
 ## Documentation & Resources :books:
 
       
 Visit the following links to learn more about LambdaTest's features, setup and tutorials around test automation, mobile app testing, responsive testing, and manual testing.
 
-* [LambdaTest Documentation](https://www.lambdatest.com/support/docs/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=docs)
-* [LambdaTest Blog](https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=blog)
-* [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=hub)    
+* [LambdaTest Documentation](https://www.lambdatest.com/support/docs/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
+* [LambdaTest Blog](https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
+* [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)    
 
 ## LambdaTest Community :busts_in_silhouette:
 
-The [LambdaTest Community](https://community.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=community) allows people to interact with tech enthusiasts. Connect, ask questions, and learn from tech-savvy people. Discuss best practises in web development, testing, and DevOps with professionals from across the globe 🌎
+The [LambdaTest Community](https://community.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud) allows people to interact with tech enthusiasts. Connect, ask questions, and learn from tech-savvy people. Discuss best practises in web development, testing, and DevOps with professionals from across the globe 🌎
 
 ## What's New At LambdaTest ❓
 
-To stay updated with the latest features and product add-ons, visit [Changelog](https://changelog.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=changelog) 
+To stay updated with the latest features and product add-ons, visit [Changelog](https://changelog.lambdatest.com) 
       
 ## About LambdaTest
 
-[LambdaTest](https://www.lambdatest.com?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=home) is a leading test execution and orchestration platform that is fast, reliable, scalable, and secure. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations. Using LambdaTest, businesses can ensure quicker developer feedback and hence achieve faster go to market. Over 500 enterprises and 1 Million + users across 130+ countries rely on LambdaTest for their testing needs.    
+[LambdaTest](https://www.lambdatest.com?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud) is a leading test execution and orchestration platform that is fast, reliable, scalable, and secure. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations. Using LambdaTest, businesses can ensure quicker developer feedback and hence achieve faster go to market. Over 500 enterprises and 1 Million + users across 130+ countries rely on LambdaTest for their testing needs.    
 
 ### Features
 
@@ -105,10 +105,10 @@ To stay updated with the latest features and product add-ons, visit [Changelog](
 * LT Browser - for responsive testing across 50+ pre-installed mobile, tablets, desktop, and laptop viewports
 
     
-[<img height="58" width="200" src="https://user-images.githubusercontent.com/70570645/171866795-52c11b49-0728-4229-b073-4b704209ddde.png">](https://accounts.lambdatest.com/register?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=register)
+[<img height="58" width="200" src="https://user-images.githubusercontent.com/70570645/171866795-52c11b49-0728-4229-b073-4b704209ddde.png">](https://accounts.lambdatest.com/register?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
 
 
 ## We are here to help you :headphones:
 
 * Got a query? we are available 24x7 to help. [Contact Us](mailto:support@lambdatest.com)
-* For more info, visit - [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud&utm_term=sk&utm_content=home)
+* For more info, visit - [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
