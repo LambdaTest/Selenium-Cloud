@@ -7,23 +7,17 @@
 
 ## Getting Started
 
-TestMu AI is a leading test execution and orchestration platform that is fast, reliable, scalable, and secure. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations.
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
 
-Run Selenium Tests on TestMu AI (Formerly LambdaTest) to ensure quicker developer feedback and faster go to market.
+With TestMu AI (Formerly LambdaTest), you can run Selenium Tests across real browsers and operating systems.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
-TestMu AI (Formerly LambdaTest) enables you to perform end-to-end automation tests on a secure, reliable, and scalable Selenium infrastructure. You can perform automated cross browser testing with Selenium scripts on 3000+ browsers and operating systems environments, giving you higher test coverage and at significantly less built times. TestMu AI (Formerly LambdaTest) will help you evaluate how well your web application renders when accessed through a variety of different browsers.
+### Prerequisites
 
-**TestMu AI (Formerly LambdaTest) Selenium Automation Features** ð
-
-* Real desktop ð¥ï¸ and mobile ð± browsers 
-* Supports all languages & frameworks 
-* Enterprise-ready Tunnel for local testing 
-* End-to-end test execution logs for easy debugging ð
-* Out-of-the-box geolocation testing ð
-* Detailed analytics and reporting of test runs ð
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
 
 ## Supported Languages and Frameworks
 
