@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Selenium Tests across real bro
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 ## Supported Languages and Frameworks
 
 Here are all the languages and frameworks supported on the TestMu AI (Formerly LambdaTest) platform ðð»
