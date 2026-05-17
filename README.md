@@ -1,41 +1,33 @@
-# Run Selenium Tests On LambdaTest
-
-![image](https://user-images.githubusercontent.com/70570645/171999890-219a551d-ca1b-41a2-aa70-35f5b2d6d8ce.png)
+# Run Selenium Tests on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
-  <a href="https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud" target="_bank">Blog</a>
-  &nbsp; &#8901; &nbsp;
-  <a href="https://www.lambdatest.com/support/docs/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud" target="_bank">Docs</a>
-  &nbsp; &#8901; &nbsp;
-  <a href="https://www.lambdatest.com/learning-hub/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud" target="_bank">Learning Hub</a>
-  &nbsp; &#8901; &nbsp;
-  <a href="https://www.lambdatest.com/newsletter/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud" target="_bank">Newsletter</a>
-  &nbsp; &#8901; &nbsp;
-  <a href="https://www.lambdatest.com/certifications/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud" target="_bank">Certifications</a>
-  &nbsp; &#8901; &nbsp;
-  <a href="https://www.youtube.com/c/LambdaTest" target="_bank">YouTube</a>
+  <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
+  <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 </p>
-&emsp;
-&emsp;
-&emsp;
 
-LambdaTest enables you to perform end-to-end automation tests on a secure, reliable, and scalable Selenium infrastructure. You can perform automated [cross browser testing](https://www.lambdatest.comhttps://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud) with Selenium scripts on 3000+ browsers and operating systems environments, giving you higher test coverage and at significantly less built times. LambdaTest will help you evaluate how well your web application renders when accessed through a variety of different browsers.
+## Getting Started
 
-**LambdaTest Selenium Automation Features** 🚀
+TestMu AI is a leading test execution and orchestration platform that is fast, reliable, scalable, and secure. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations.
 
-* Real desktop 🖥️ and mobile 📱 browsers 
+Run Selenium Tests on TestMu AI (Formerly LambdaTest) to ensure quicker developer feedback and faster go to market.
+
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
+- Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
+
+TestMu AI (Formerly LambdaTest) enables you to perform end-to-end automation tests on a secure, reliable, and scalable Selenium infrastructure. You can perform automated cross browser testing with Selenium scripts on 3000+ browsers and operating systems environments, giving you higher test coverage and at significantly less built times. TestMu AI (Formerly LambdaTest) will help you evaluate how well your web application renders when accessed through a variety of different browsers.
+
+**TestMu AI (Formerly LambdaTest) Selenium Automation Features** ð
+
+* Real desktop ð¥ï¸ and mobile ð± browsers 
 * Supports all languages & frameworks 
 * Enterprise-ready Tunnel for local testing 
-* End-to-end test execution logs for easy debugging 📊
-* Out-of-the-box geolocation testing 🌎
-* Detailed analytics and reporting of test runs 📈
-
-[<img height="58" width="200" src="https://user-images.githubusercontent.com/70570645/171866795-52c11b49-0728-4229-b073-4b704209ddde.png">](https://accounts.lambdatest.com/register?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
-
+* End-to-end test execution logs for easy debugging ð
+* Out-of-the-box geolocation testing ð
+* Detailed analytics and reporting of test runs ð
 
 ## Supported Languages and Frameworks
 
-Here are all the languages and frameworks supported on the LambdaTest platform 👇🏻
+Here are all the languages and frameworks supported on the TestMu AI (Formerly LambdaTest) platform ðð»
 
 | Java  | JavaScript | C# | Python | PHP | Ruby | 
 |-------------------|--------|---------|--------|----|------|
@@ -51,64 +43,31 @@ Here are all the languages and frameworks supported on the LambdaTest platform �
 | |[Karma Test Runner](https://github.com/LambdaTest/angular-karma-sample)    |     |        |    |      | 
 | |[NemoJS](https://github.com/LambdaTest/Nemo-Lambdatest-sample)    |     |        |    |      | 
 
-      
 >**Note**: We support all languages and frameworks that are compatible with Selenium, so in case your favorite isn't in the table.  
-Don't worry, you can still run the test. [Contact Us 💬](mailto:support@lambdatest.com) for any help.
-
+Don't worry, you can still run the test. [Contact Us ð¬](mailto:support@testmuai.com) for any help.
 
 ### Tesbo
 
 Our Selenium grid also supports hybrid frameworks like [Tesbo](https://github.com/LambdaTest/LamdaTest_Tesbo_Demo).
 
-## Additional Links 🔗
+## LambdaTest is Now TestMu AI
 
-* [Set Up Environment Variables](https://www.lambdatest.com/support/docs/using-environment-variables-for-authentication-credentials/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
-* [Inside LambdaTest Automation Platform](https://www.lambdatest.com/support/docs/inside-lambdatest-platform/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
-* [Desired Capabilities In Selenium](https://www.lambdatest.com/support/docs/selenium-automation-capabilities/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
-* [LambdaTest Selenium Grid Configuration](https://www.lambdatest.com/support/docs/lambdatest-grid-configuration/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
-* [Changing Individual Test Details](https://www.lambdatest.com/support/docs/change-individual-test-details/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
+On **January 12, 2026**, [LambdaTest evolved to TestMu AI](https://www.testmuai.com/lambdatest-is-now-testmuai/), the world's first fully autonomous **Agentic AI Quality Engineering Platform**.
 
-## Documentation & Resources :books:
+Same team. Same infrastructure. Same customer accounts. All existing LambdaTest logins, scripts, capabilities, and integrations continue to work without change.
 
-      
-Visit the following links to learn more about LambdaTest's features, setup and tutorials around test automation, mobile app testing, responsive testing, and manual testing.
+ð Find the new home for [LambdaTest](https://www.testmuai.com).
 
-* [LambdaTest Documentation](https://www.lambdatest.com/support/docs/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
-* [LambdaTest Blog](https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
-* [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)    
+### How LambdaTest Evolved into TestMu AI
 
-## LambdaTest Community :busts_in_silhouette:
+In 2017, we launched LambdaTest with a simple mission: make testing fast, reliable, and accessible. As LambdaTest grew, we expanded into Test Intelligence, Visual Regression Testing, Accessibility Testing, API Testing, and Performance Testing, covering the full depth of the testing lifecycle.
 
-The [LambdaTest Community](https://community.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud) allows people to interact with tech enthusiasts. Connect, ask questions, and learn from tech-savvy people. Discuss best practises in web development, testing, and DevOps with professionals from across the globe 🌎
+As software development entered the AI era, testing had to evolve, too. We rebuilt the architecture to be AI-native from the ground up, with autonomous agents that **plan, author, execute, analyze, and optimize tests** while keeping humans in the loop. The platform integrates with your repos, CI, IDEs, and terminals, continuously learning from every code change and development signal.
 
-## What's New At LambdaTest ❓
+That evolution earned a new name: **TestMu AI**, built for an AI-first future of quality engineering. TestMu is not a new name for us. It is the name of our annual community conference, which has brought together 100,000+ quality engineers to discuss how AI would reshape testing, long before that became an industry norm. 
 
-To stay updated with the latest features and product add-ons, visit [Changelog](https://changelog.lambdatest.com) 
-      
-## About LambdaTest
+What started as a high-performance cloud testing platform has transformed into an AI-native, multi-agent system powering a connected, end-to-end quality layer. That evolution defined a new identity: LambdaTest evolved into TestMu AI, built for an AI-first future of quality engineering.
 
-[LambdaTest](https://www.lambdatest.com?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud) is a leading test execution and orchestration platform that is fast, reliable, scalable, and secure. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations. Using LambdaTest, businesses can ensure quicker developer feedback and hence achieve faster go to market. Over 500 enterprises and 1 Million + users across 130+ countries rely on LambdaTest for their testing needs.    
+## Support
 
-### Features
-
-* Run Selenium, Cypress, Puppeteer, Playwright, and Appium automation tests across 3000+ real desktop and mobile environments.
-* Real-time cross browser testing on 3000+ environments.
-* Test on Real device cloud
-* Blazing fast test automation with HyperExecute
-* Accelerate testing, shorten job times and get faster feedback on code changes with Test At Scale.
-* Smart Visual Regression Testing on cloud
-* 120+ third-party integrations with your favorite tool for CI/CD, Project Management, Codeless Automation, and more.
-* Automated Screenshot testing across multiple browsers in a single click.
-* Local testing of web and mobile apps.
-* Online Accessibility Testing across 3000+ desktop and mobile browsers, browser versions, and operating systems.
-* Geolocation testing of web and mobile apps across 53+ countries.
-* LT Browser - for responsive testing across 50+ pre-installed mobile, tablets, desktop, and laptop viewports
-
-    
-[<img height="58" width="200" src="https://user-images.githubusercontent.com/70570645/171866795-52c11b49-0728-4229-b073-4b704209ddde.png">](https://accounts.lambdatest.com/register?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
-
-
-## We are here to help you :headphones:
-
-* Got a query? we are available 24x7 to help. [Contact Us](mailto:support@lambdatest.com)
-* For more info, visit - [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=selenium-cloud)
+Got a question? Email [support@testmuai.com](mailto:support@testmuai.com) or chat with us 24x7 from our chat portal.
