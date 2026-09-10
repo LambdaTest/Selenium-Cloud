@@ -12,7 +12,7 @@
 With TestMu AI (Formerly LambdaTest), you can run Selenium Tests across real browsers and operating systems.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
-- Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/getting-started-with-selenium-4/) for the full setup walkthrough.
+- Follow the [Run Selenium tests on TestMu AI](https://www.testmuai.com/support/docs/getting-started-with-selenium-4/) for the full setup walkthrough.
 
 ### Prerequisites
 
